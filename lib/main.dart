@@ -553,7 +553,7 @@ class _StoreHomeState extends State<StoreHome> {
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
                         Text(
-                          '${total.toStringAsFixed(0)} ر.س',
+                          '${total.toStringAsFixed(0)} د.ل',
                           style: const TextStyle(
                             fontSize: 20,
                             color: StoreTheme.orange,
